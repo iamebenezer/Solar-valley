@@ -1,0 +1,26 @@
+       
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(/Assets/stars2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#intro{
+    background-image: url(/Assets/intro1.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ h1, h2, a{
+    font-family: 'MOTO VERSE', sans-serif;
+                                                
+}
+p, li{
+    font-family: 'Lansdowne DEMO', sans-serif;
+                                                
+                                                
+                                                
+} 
