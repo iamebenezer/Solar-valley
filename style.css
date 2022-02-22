@@ -1,4 +1,4 @@
-       
+
 body{
     margin: 0;
     padding: 0;
@@ -21,10 +21,9 @@ body{
 }
 p, li{
     font-family: 'Lansdowne DEMO', sans-serif;
-                                                
-                                                
-                                                
+                                        
 } 
+
 #down-btn:hover{
     color: #fff;
     background: url(/Assets/stars2.jpg);
@@ -111,3 +110,4 @@ p, li{
     letter-spacing: 1px;
     color: #00acc1;
   }
+
